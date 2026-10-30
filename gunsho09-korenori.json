@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/korenori",
  "yomi": "さかのうえのこれのりしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "坂上是則",
+  "desc": "三十六歌仙の一人、坂上是則の家集。亭子院の歌合や大井川の行幸の歌など、宇多・醍醐朝の機会詠を四季に分けて収める小さな集。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -544,6 +549,6 @@
   "poems": 44,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
